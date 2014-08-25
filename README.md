@@ -1,4 +1,8 @@
-amplificacionEnsamblesAcusticos
+Ciclo de estudio de Amplificacion de Ensambles Acústicos
 ===============================
 
-Ciclo de estudio de la amplificación de ensambles acústicos
+Iniciar con:
+
+* De qué se trata esto? (divulgacion.md)
+* Ciclo de estudio
+
