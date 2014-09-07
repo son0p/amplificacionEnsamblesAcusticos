@@ -9,11 +9,11 @@
 #### ¿Cómo mejorar la amplificación de ensambles acústicos en medellín?
 
 * Mejores equipos de sonido
-  *Argumentos a favor:
+  * Argumentos a favor:
 
 
 
-  *Argumentos en contra:
+  * Argumentos en contra:
 
 * Micrófonos Especializados
   * Argumentos a favor:
@@ -54,7 +54,7 @@ Algunos entes involucrados en la amplificación de ensambles acústicos
 * Roadies
 
 ---
-###Requerimientos para una buena amplificación de un ensamble acústico
+### Casos en la amplificación de un ensamble acústico
 
 
 *Ejemplo:*

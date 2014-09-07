@@ -1,3 +1,5 @@
+http://www.mixonline.com/mag/audio_sound_reinforcement_boston/
+
  and positioning the mics away from the instruments will give you a natural sound whereas clipons become really difficult to sound natural. 
 
 the sound was sort of out of tune.

@@ -7,9 +7,41 @@
 
 ---
 Contenidos:
-	* Contexto
-	* Argumentos frente a la pregunta
-	* Casos
-	* 
+
+* Contexto
+* Funcionamiento
+* Argumentos frente a la pregunta
+* Casos
+
 
 ---
+
+
+## Contexto
+
+"En la selva no hay micrófonos de condensador"
+
+- Red de escuelas / Festicamara
+- Festivales Mono Nuñes, Petronio Alvarez, Negra Noche
+- Pop Sinfónico
+
+Surge la necesidad, como reaccionar,investigar, estudiar, planear, experimentar,  evaluar.
+
+Problemas identificados:
+- Comunicación
+- Tiempos de montaje
+- Capacitación Operadores
+- Ruido ambiental - Viento
+
+
+
+
+
+
+
+
+
+
+
+
+
