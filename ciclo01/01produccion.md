@@ -1,6 +1,6 @@
 # Producción técnica para Ensambles Acústicos
 
-Podríamos mencionar la _Producción Tecnica_ como el arte de tener a tiempo,  todas las condiciones técnicas necesarias para que se logre el objetivo del evento.
+Podríamos mencionar la _Producción Tecnica_ como el arte de tener, a tiempo!,  todas las condiciones técnicas necesarias para que se logre el objetivo del evento.
 
 Algunas funciones del rol de _Productor Técnico_ pueden ser:
 - Preparación y envío de Rider (Requerimientos técnicos)
